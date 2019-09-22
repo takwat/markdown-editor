@@ -1,0 +1,27 @@
+{
+  "name": "markdown-editor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takwat/markdown-editor.git"
+  },
+  "author": "TAK",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/takwat/markdown-editor/issues"
+  },
+  "homepage": "https://github.com/takwat/markdown-editor#readme",
+  "dependencies": {
+    "electron": "^6.0.10",
+    "nuxt": "^2.9.2"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.9"
+  }
+}
