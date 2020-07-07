@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/takwat/markdown-editor#readme",
   "dependencies": {
-    "electron": "^6.0.10",
+    "electron": "^9.1.0",
     "nuxt": "^2.9.2"
   },
   "devDependencies": {
